@@ -7,7 +7,7 @@ const axios = require("axios");
 
 // আপনার ওয়েবসাইট URL
 const TARGET_URL =
-"https://watertankcontroller.com/aDm1n-D@sh80ard_9L/dashboard/order?query=Pending";
+"https://watertankcontroller.com/aDm1n-D@sh80ard_9L/dashboard/order?query=Packaging";
 
 
 // আপনার Telegram Bot Token
